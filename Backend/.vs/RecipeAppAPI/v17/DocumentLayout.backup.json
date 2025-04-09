@@ -1,34 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\RecipeNest Final Project\\Backend\\",
+  "WorkspaceRootPath": "C:\\Manish_DBA\\PCPS\\repos\\Kritika_Fix\\recipe-nest\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|c:\\users\\lenovo\\desktop\\recipenest final project\\backend\\recipeappapi\\recipeappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|c:\\manish_dba\\pcps\\repos\\kritika_fix\\recipe-nest\\backend\\recipeappapi\\migrations\\20250409040527_recipetestdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|solutionrelative:recipeappapi\\migrations\\20250409040527_recipetestdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|c:\\manish_dba\\pcps\\repos\\kritika_fix\\recipe-nest\\backend\\recipeappapi\\recipeappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|solutionrelative:recipeappapi\\recipeappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|c:\\users\\lenovo\\desktop\\recipenest final project\\backend\\recipeappapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|solutionrelative:recipeappapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|c:\\users\\lenovo\\desktop\\recipenest final project\\backend\\recipeappapi\\recipeappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|solutionrelative:recipeappapi\\recipeappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|c:\\users\\lenovo\\desktop\\recipenest final project\\backend\\recipeappapi\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|solutionrelative:recipeappapi\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|c:\\users\\lenovo\\desktop\\recipenest final project\\backend\\recipeappapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|c:\\manish_dba\\pcps\\repos\\kritika_fix\\recipe-nest\\backend\\recipeappapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|solutionrelative:recipeappapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|c:\\users\\lenovo\\desktop\\recipenest final project\\backend\\recipeappapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|solutionrelative:recipeappapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|c:\\manish_dba\\pcps\\repos\\kritika_fix\\recipe-nest\\backend\\recipeappapi\\recipeappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|solutionrelative:recipeappapi\\recipeappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|c:\\users\\lenovo\\desktop\\recipenest final project\\backend\\recipeappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|c:\\manish_dba\\pcps\\repos\\kritika_fix\\recipe-nest\\backend\\recipeappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|solutionrelative:recipeappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|c:\\manish_dba\\pcps\\repos\\kritika_fix\\recipe-nest\\backend\\recipeappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|solutionrelative:recipeappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|c:\\manish_dba\\pcps\\repos\\kritika_fix\\recipe-nest\\backend\\recipeappapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|solutionrelative:recipeappapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|c:\\manish_dba\\pcps\\repos\\kritika_fix\\recipe-nest\\backend\\recipeappapi\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|solutionrelative:recipeappapi\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|c:\\manish_dba\\pcps\\repos\\kritika_fix\\recipe-nest\\backend\\recipeappapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C041CB-9761-4D8D-85E8-33F013291A5B}|RecipeAppAPI\\RecipeAppAPI.csproj|solutionrelative:recipeappapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +46,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "20250409040527_RecipeTestDB.cs",
+              "DocumentMoniker": "C:\\Manish_DBA\\PCPS\\repos\\Kritika_Fix\\recipe-nest\\Backend\\RecipeAppAPI\\Migrations\\20250409040527_RecipeTestDB.cs",
+              "RelativeDocumentMoniker": "RecipeAppAPI\\Migrations\\20250409040527_RecipeTestDB.cs",
+              "ToolTip": "C:\\Manish_DBA\\PCPS\\repos\\Kritika_Fix\\recipe-nest\\Backend\\RecipeAppAPI\\Migrations\\20250409040527_RecipeTestDB.cs",
+              "RelativeToolTip": "RecipeAppAPI\\Migrations\\20250409040527_RecipeTestDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T04:05:42.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Manish_DBA\\PCPS\\repos\\Kritika_Fix\\recipe-nest\\Backend\\RecipeAppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RecipeAppAPI\\appsettings.json",
+              "ToolTip": "C:\\Manish_DBA\\PCPS\\repos\\Kritika_Fix\\recipe-nest\\Backend\\RecipeAppAPI\\appsettings.json",
+              "RelativeToolTip": "RecipeAppAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T03:57:34.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RecipeNest Final Project\\Backend\\RecipeAppAPI\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Manish_DBA\\PCPS\\repos\\Kritika_Fix\\recipe-nest\\Backend\\RecipeAppAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "RecipeAppAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RecipeNest Final Project\\Backend\\RecipeAppAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Manish_DBA\\PCPS\\repos\\Kritika_Fix\\recipe-nest\\Backend\\RecipeAppAPI\\Controllers\\AuthController.cs",
               "RelativeToolTip": "RecipeAppAPI\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAkAAABgAAAAAAAawBMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,11 +89,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "RegisterRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RecipeNest Final Project\\Backend\\RecipeAppAPI\\Models\\RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Manish_DBA\\PCPS\\repos\\Kritika_Fix\\recipe-nest\\Backend\\RecipeAppAPI\\Models\\RegisterRequest.cs",
               "RelativeDocumentMoniker": "RecipeAppAPI\\Models\\RegisterRequest.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RecipeNest Final Project\\Backend\\RecipeAppAPI\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Manish_DBA\\PCPS\\repos\\Kritika_Fix\\recipe-nest\\Backend\\RecipeAppAPI\\Models\\RegisterRequest.cs",
               "RelativeToolTip": "RecipeAppAPI\\Models\\RegisterRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,37 +102,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RecipeNest Final Project\\Backend\\RecipeAppAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Manish_DBA\\PCPS\\repos\\Kritika_Fix\\recipe-nest\\Backend\\RecipeAppAPI\\Program.cs",
               "RelativeDocumentMoniker": "RecipeAppAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RecipeNest Final Project\\Backend\\RecipeAppAPI\\Program.cs",
+              "ToolTip": "C:\\Manish_DBA\\PCPS\\repos\\Kritika_Fix\\recipe-nest\\Backend\\RecipeAppAPI\\Program.cs",
               "RelativeToolTip": "RecipeAppAPI\\Program.cs",
-              "ViewState": "AgIAABMAAAAARjMzMzPrvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T07:40:41.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RecipeNest Final Project\\Backend\\RecipeAppAPI\\Services\\AuthService.cs",
+              "DocumentMoniker": "C:\\Manish_DBA\\PCPS\\repos\\Kritika_Fix\\recipe-nest\\Backend\\RecipeAppAPI\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "RecipeAppAPI\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RecipeNest Final Project\\Backend\\RecipeAppAPI\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Manish_DBA\\PCPS\\repos\\Kritika_Fix\\recipe-nest\\Backend\\RecipeAppAPI\\Services\\AuthService.cs",
               "RelativeToolTip": "RecipeAppAPI\\Services\\AuthService.cs",
-              "ViewState": "AgIAABEAAABAAQAAAIAYwAYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T07:35:08.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RecipeAppContext.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RecipeNest Final Project\\Backend\\RecipeAppAPI\\RecipeAppContext.cs",
+              "DocumentMoniker": "C:\\Manish_DBA\\PCPS\\repos\\Kritika_Fix\\recipe-nest\\Backend\\RecipeAppAPI\\RecipeAppContext.cs",
               "RelativeDocumentMoniker": "RecipeAppAPI\\RecipeAppContext.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RecipeNest Final Project\\Backend\\RecipeAppAPI\\RecipeAppContext.cs",
+              "ToolTip": "C:\\Manish_DBA\\PCPS\\repos\\Kritika_Fix\\recipe-nest\\Backend\\RecipeAppAPI\\RecipeAppContext.cs",
               "RelativeToolTip": "RecipeAppAPI\\RecipeAppContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,24 +141,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RecipeAppAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RecipeNest Final Project\\Backend\\RecipeAppAPI\\RecipeAppAPI.csproj",
+              "DocumentMoniker": "C:\\Manish_DBA\\PCPS\\repos\\Kritika_Fix\\recipe-nest\\Backend\\RecipeAppAPI\\RecipeAppAPI.csproj",
               "RelativeDocumentMoniker": "RecipeAppAPI\\RecipeAppAPI.csproj",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RecipeNest Final Project\\Backend\\RecipeAppAPI\\RecipeAppAPI.csproj",
+              "ToolTip": "C:\\Manish_DBA\\PCPS\\repos\\Kritika_Fix\\recipe-nest\\Backend\\RecipeAppAPI\\RecipeAppAPI.csproj",
               "RelativeToolTip": "RecipeAppAPI\\RecipeAppAPI.csproj",
-              "ViewState": "AgIAAAAAAADgMzMzMzMrwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-08T07:38:25.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "RecipeController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RecipeNest Final Project\\Backend\\RecipeAppAPI\\Controllers\\RecipeController.cs",
+              "DocumentMoniker": "C:\\Manish_DBA\\PCPS\\repos\\Kritika_Fix\\recipe-nest\\Backend\\RecipeAppAPI\\Controllers\\RecipeController.cs",
               "RelativeDocumentMoniker": "RecipeAppAPI\\Controllers\\RecipeController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RecipeNest Final Project\\Backend\\RecipeAppAPI\\Controllers\\RecipeController.cs",
+              "ToolTip": "C:\\Manish_DBA\\PCPS\\repos\\Kritika_Fix\\recipe-nest\\Backend\\RecipeAppAPI\\Controllers\\RecipeController.cs",
               "RelativeToolTip": "RecipeAppAPI\\Controllers\\RecipeController.cs",
               "ViewState": "AgIAAAwAAAAAMAAAAADAvxYAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

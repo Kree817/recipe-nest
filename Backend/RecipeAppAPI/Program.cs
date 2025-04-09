@@ -4,6 +4,8 @@ using RecipeAppAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddSwaggerGen();
+
 // Register services for Dependency Injection
 builder.Services.AddScoped<AuthService>();  // Register AuthService for DI
 
@@ -29,6 +31,9 @@ var app = builder.Build();
 
 // Apply CORS policy
 app.UseCors("AllowFrontend");
+
+app.UseSwagger();
+app.UseSwaggerUI();
 
 app.UseAuthorization();
 
